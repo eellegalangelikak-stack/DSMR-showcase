@@ -98,7 +98,13 @@ DSMR™ is part of her exploration of how meaningful ideas can take shape throug
 Professional connection:
 Angelika Karalus on LinkedIn
 
-An Invitation to Collaborate
+### Interested in Collaborating?
+
+DSMR™ welcomes exploratory conversations with researchers, interaction designers, creative technologists, and developers.
+
+For potential research or creative collaborations, connect with [Angelika Karalus on LinkedIn](https://www.linkedin.com/in/angelika-karalus).
+
+Collaboration inquiries do not imply access to private development materials or transfer of intellectual property rights.
 
 The most interesting questions often live between disciplines.
 
