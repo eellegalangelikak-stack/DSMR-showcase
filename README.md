@@ -142,3 +142,16 @@ Future findings, if any, will be distinguished from hypotheses, creative intenti
 DSMR™ — An invitation to notice what progress feels like.
 
 Created by Angelika Karalus.
+---
+
+## ✨ Experience DSMR™ — The Lavender Ritual
+
+Because even the smallest victory deserves to be felt.
+
+Explore the interactive DSMR™ beta experience, created by Angelika Karalus.
+
+### 🌸 [Launch the Interactive Experience](https://dsmr-lavender-ritual-ak.hazycrumb15.chatgpt.site)
+
+An invitation to pause, acknowledge your progress, and celebrate the little victories.
+
+**Created by Angelika Karalus.**
