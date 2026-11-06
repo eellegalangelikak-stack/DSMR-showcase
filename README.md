@@ -95,8 +95,6 @@ Angelika’s creative interests bring together human experience, imagination, ex
 
 DSMR™ is part of her exploration of how meaningful ideas can take shape through interdisciplinary inquiry and creative development.
 
-Professional connection:
-Angelika Karalus on LinkedIn
 
 ### Interested in Collaborating?
 
