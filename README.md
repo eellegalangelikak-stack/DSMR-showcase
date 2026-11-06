@@ -151,6 +151,43 @@ Her work considers not only what technology accomplishes, but also how people en
 ---
 
 ## Interested in Collaborating?
+---
+
+## 🌻 Help Shape the Next Chapter
+
+The Lavender Ritual is an evolving creative prototype, and your perspective matters.
+
+Whether you're a curious visitor, designer, developer, or researcher, you're invited to share your experience.
+
+### ✨ Three Questions
+
+1. **First impressions:** What did you understand the experience was inviting you to do?
+
+2. **Your experience:** Was there a moment you particularly enjoyed, found meaningful, or found confusing?
+
+3. **Future possibilities:** What would you change, improve, or explore further?
+
+### 💌 Share Your Feedback
+
+[🌸 Submit Beta Feedback on GitHub](https://github.com/eellegalangelikak-stack/DSMR-showcase/issues/new?title=Lavender%20Ritual%20Beta%20Feedback)
+
+Feedback is voluntary and helps guide future creative development and usability improvements.
+
+Please avoid sharing sensitive personal or health information.
+
+GitHub requires an account to submit feedback through Issues.
+
+### 🧠 A Note on Research
+
+This feedback invitation is for informal prototype evaluation, not a formal scientific study.
+
+Visitor observations may help identify usability challenges, creative opportunities, and questions worthy of future investigation.
+
+They do not establish scientific or therapeutic effectiveness.
+
+*Every perspective offers another way to see.*
+
+---
 
 *The most interesting questions often live between disciplines.*
 
