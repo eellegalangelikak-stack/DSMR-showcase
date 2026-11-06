@@ -84,7 +84,7 @@ The original development repository remains private.
 
 Proprietary source code, unreleased designs, research notes, experimental materials, and confidential implementation details are not included in this showcase.
 
-No functional product or validated research outcome is represented as publicly available at this stage.
+An interactive beta experience is publicly available for exploration. The underlying research, proprietary development materials, and unreleased features remain private. No scientifically validated or therapeutic outcomes are claimed at this stage.
 
 Creator
 
