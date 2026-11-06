@@ -141,7 +141,6 @@ Future findings, if any, will be distinguished from hypotheses, creative intenti
 
 DSMR™ — An invitation to notice what progress feels like.
 
-Created by Angelika Karalus.
 ---
 
 ## ✨ Experience DSMR™ — The Lavender Ritual
